@@ -58,6 +58,8 @@ How to Use/Setup ?
     
     
     
+    
+    
         1. Install JDK
         2. Download Executable Jar from here: http://sourceforge.net/projects/javavulnerablelab/files/v0.2/JavaVulnerableLab.jar/download
         3. Double Click the JavaVulnerable.jar to run( if double click is not working, run this command "java -jar JavaVulnerable.jar" in your Terminal or CMD)
